@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/pink-flamingo/static/css/main.337ad5f0.css",
+    "main.js": "/pink-flamingo/static/js/main.98af5e03.js",
+    "static/media/add.png": "/pink-flamingo/static/media/add.34ba3b34e1b9c1912747.png",
+    "static/media/form.svg": "/pink-flamingo/static/media/form.aa366ccab4150b22820f4efebe023627.svg",
+    "static/media/logo.svg": "/pink-flamingo/static/media/logo.0c22c0fcea4b96c8024a2def4f9b6a6a.svg",
+    "static/media/social.svg": "/pink-flamingo/static/media/social.f8f34e00211c0bd0fe52b1cd6ca5f0a5.svg",
+    "static/media/flamingo.svg": "/pink-flamingo/static/media/flamingo.654df1a53b316e3b8f130be505603954.svg",
+    "static/media/circleFlamingo.svg": "/pink-flamingo/static/media/circleFlamingo.5a03902e820b451e32e8fc63814121a6.svg",
+    "static/media/start.svg": "/pink-flamingo/static/media/start.d1a15e5a077ec5d3755a0483c8ed1243.svg",
+    "static/media/star.svg": "/pink-flamingo/static/media/star.955e143ae672153280219196278e615a.svg",
+    "static/media/telephone.svg": "/pink-flamingo/static/media/telephone.0614284c135808f6bcac07de7c15e8b9.svg",
+    "static/media/bicart.svg": "/pink-flamingo/static/media/bicart.220909d75c1d71a8af79c77f8f006636.svg",
+    "static/media/cart.svg": "/pink-flamingo/static/media/cart.b26ed9bb8876cdde3afba1f55e35e671.svg",
+    "static/media/profile.svg": "/pink-flamingo/static/media/profile.16cf59145616b442ceba13bc8a64992f.svg",
+    "static/media/heart.svg": "/pink-flamingo/static/media/heart.e252ff8e9d90ee2f77f993695779182a.svg",
+    "static/media/unlike.svg": "/pink-flamingo/static/media/unlike.98ef1b13b0168f568f6670311f05be89.svg",
+    "index.html": "/pink-flamingo/index.html",
+    "static/media/cut.svg": "/pink-flamingo/static/media/cut.fe01075154d1fca59d1c410b2c84f715.svg",
+    "static/media/user.svg": "/pink-flamingo/static/media/user.9b47c2c3b06bdceac38661b064f2cd6e.svg",
+    "static/media/pinkleft.svg": "/pink-flamingo/static/media/pinkleft.387ad14ed9846c8f20277dcc3b39f5d3.svg",
+    "static/media/left.svg": "/pink-flamingo/static/media/left.57a99cff1197d5af0c614057c5d46e61.svg",
+    "static/media/check.svg": "/pink-flamingo/static/media/check.23543643a0a43ad8e63edc669e093fdb.svg",
+    "static/media/pinkright.svg": "/pink-flamingo/static/media/pinkright.e363bffab14b594b263e7aa316729da9.svg",
+    "static/media/right.svg": "/pink-flamingo/static/media/right.96c7a1e52be9e12fc4b57c0e2e0a54ee.svg",
+    "static/media/email.svg": "/pink-flamingo/static/media/email.74af32e8c8afca7cb38bbb308e168963.svg",
+    "static/media/location.svg": "/pink-flamingo/static/media/location.36790ea2214c93c10c22b553cb696b7a.svg",
+    "static/media/arrowdn.svg": "/pink-flamingo/static/media/arrowdn.cf6f4a8606000aa187ca84cfc4add857.svg",
+    "static/media/mail.svg": "/pink-flamingo/static/media/mail.e5f9ca16609a6d1af0a11e26b077d415.svg",
+    "static/media/ddArrow.svg": "/pink-flamingo/static/media/ddArrow.38bb6dd45ee679b5b884c08c21ffccfe.svg",
+    "static/media/arrow.svg": "/pink-flamingo/static/media/arrow.47b399757d70fb8d502871fb8620eff5.svg",
+    "static/media/vector.svg": "/pink-flamingo/static/media/vector.e3eb006fcf793182816948b519e94de2.svg",
+    "main.337ad5f0.css.map": "/pink-flamingo/static/css/main.337ad5f0.css.map",
+    "main.98af5e03.js.map": "/pink-flamingo/static/js/main.98af5e03.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.337ad5f0.css",
+    "static/js/main.98af5e03.js"
+  ]
+}
